@@ -185,6 +185,7 @@ span{
 }
 .box-content p{
     color: rgb(0, 157, 255);
+    text-decoration:underline;
 }
 footer{
     margin-top: 15px;
